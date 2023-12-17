@@ -1,0 +1,16 @@
+.contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .carta {
+    width: 100px;
+    height: 150px;
+    background-color: lightgray;
+    border: 1px solid gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
